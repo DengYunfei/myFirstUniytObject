@@ -1,1 +1,2 @@
 # myFirstUniytObject
+这是一个练习项目，主要为了熟悉unity的开发模式与代码编写
